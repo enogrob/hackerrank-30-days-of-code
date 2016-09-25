@@ -12,8 +12,9 @@ This Tutorial covers required topics to fullfil the preparation for an ocasional
 
 ## Topics
 ```
-[X] Day 01
-[ ] Day 02
+[x] Day 0: Hello, World.
+[X] Day 1: Data Types
+[ ] Day 2: Operators
 ```
 
 
