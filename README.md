@@ -14,7 +14,8 @@ This Tutorial covers required topics to fullfil the preparation for an ocasional
 ```
 [x] Day 0: Hello, World.
 [X] Day 1: Data Types
-[ ] Day 2: Operators
+[x] Day 2: Operators
+[x] Day 3: Conditional Statements
 ```
 
 
