@@ -16,6 +16,7 @@ This Tutorial covers required topics to fullfil the preparation for an ocasional
 [X] Day 1: Data Types
 [x] Day 2: Operators
 [x] Day 3: Conditional Statements
+[x] Day 4: Class vs Instance
 ```
 
 
