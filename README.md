@@ -17,6 +17,8 @@ This Tutorial covers required topics to fullfil the preparation for an ocasional
 [x] Day 2: Operators
 [x] Day 3: Conditional Statements
 [x] Day 4: Class vs Instance
+[x] Day 5: Let's Review
+[x] Day 6: Arrays
 ```
 
 
